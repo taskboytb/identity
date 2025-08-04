@@ -36,3 +36,7 @@ build/
 
 !gradle/wrapper/gradle-wrapper.jar
 !gradle/wrapper/gradle-wrapper.properties
+
+.env.dev
+
+keycloak/import/realm-import.json

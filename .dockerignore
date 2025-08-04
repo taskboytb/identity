@@ -1,0 +1,15 @@
+.gradle
+.idea
+build
+out
+*.iml
+*.ipr
+*.iws
+.git
+.gitignore
+Dockerfile
+.dockerignore
+*.log
+*.bak
+*.swp
+/reports
